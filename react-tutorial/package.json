@@ -2,7 +2,7 @@
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://github.com/tbencheikh/react-list/tree/master/react-tutorial",
+  "homepage" : "https://tbencheikh.github.io/react-list/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
