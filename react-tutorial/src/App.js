@@ -21,6 +21,10 @@ class App extends Component {
         name: 'Moh',
         job: 'Barmen',
       },
+      {
+        name: 'man ba3d makla ach ngolo',
+        job: 'wino attay',
+      },
     ]
   }
 
