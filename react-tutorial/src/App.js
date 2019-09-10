@@ -7,7 +7,7 @@ class App extends Component {
     characters: [
       {
         name: 'Tahir',
-        job: 'Developer',
+        job: 'free electron',
       },
       {
         name: 'Sami',
@@ -19,7 +19,7 @@ class App extends Component {
       },
       {
         name: 'Moh',
-        job: 'Bartender',
+        job: 'Barmen',
       },
     ]
   }
